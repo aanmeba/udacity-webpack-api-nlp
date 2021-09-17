@@ -18,3 +18,7 @@ In order to develop this project, we are using the concept of Natural language p
 The project is created in accordance to the following specifications:
 
 - <a href="https://review.udacity.com/#!/rubrics/2668/view" target="_blank"> Nanodegree Project Rubric Guide</a>
+
+## Preview
+
+<img src="/img/preview.png">
